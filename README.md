@@ -26,16 +26,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmeshgadhiya161&layout=compact&theme=default" alt="Top Languages" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dharmeshgadhiya161&show_icons=true&theme=default" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmeshgadhiya161&layout=compact&theme=default" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharmeshgadhiya161&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
 
 
