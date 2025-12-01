@@ -5,9 +5,9 @@
 <!-- Profile Views Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dharmeshgadhiya161&color=green)
 
-🚀 **Android Development || Full Stack Data Science and AI || PYTHON || Machine Learning** 
+🚀 **Full Stack Data Science and AI || PYTHON || Machine Learning || Android Development** 
 
-- 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(PowerBI | Tableau). 
+- 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(Power BI | Tableau). 
 - 🌱 **I’m currently learning** Languages & Tools: TensorFlow, PyTorch, OpenCV, AI/ML Areas: Deep Learning, Computer Vision Deep Learning, and Deployment: Flask, Streamlit, Heroku, Fast APIs, API Integration.
 
 ### 🛠 Languages and Tools
