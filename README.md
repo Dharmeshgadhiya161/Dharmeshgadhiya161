@@ -10,6 +10,10 @@
 - 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(Power BI | Tableau). 
 - 🌱 **I’m currently learning** Languages & Tools: TensorFlow, PyTorch, OpenCV, AI/ML Areas: Deep Learning, Computer Vision Deep Learning, and Deployment: Flask, Streamlit, Heroku, Fast APIs, API Integration.
 
+📱 **Mobile Development Background**: **(5+ years experience)Kotlin, Java**, Android SDK, Firebase, REST APIs. I'm excited to blend my mobile app development experience with AI/ML skills to build impactful, intelligent applications and solutions.
+
+📩 **I’m open to freelance, contract, or full-time roles in Data Science, AI, or Machine Learning. Let’s connect and collaborate!**
+
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
