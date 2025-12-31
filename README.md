@@ -10,9 +10,8 @@
 - 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(Power BI | Tableau). 
 - 🌱 **I’m currently learning** Languages & Tools: TensorFlow, PyTorch, OpenCV, AI/ML Areas: Deep Learning, Computer Vision Deep Learning, and Deployment: Flask, Streamlit, Heroku, Fast APIs, API Integration.
 
-📱 **Mobile Development Background**: **(5+ years experience)Kotlin, Java**, Android SDK, Firebase, REST APIs. I'm excited to blend my mobile app development experience with AI/ML skills to build impactful, intelligent applications and solutions.
+📱 **Mobile Development Background**: **(5+ years experience) Kotlin, Java**, Android SDK, Firebase, REST APIs. I'm excited to blend my mobile app development experience with AI/ML skills to build impactful, intelligent applications and solutions.
 
-📩 **I’m open to freelance, contract, or full-time roles in Data Science, AI, or Machine Learning. Let’s connect and collaborate!**
 
 ### 🛠 Languages and Tools
 
@@ -47,6 +46,7 @@
   </table>
 </div>
 
+📩 **I’m open to freelance, contract, or full-time roles in Full Stack Data Science, AI, or Machine Learning, and Android Developer. Let’s connect and collaborate!**
 
 ### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmeshgadhiya161@gmail.com)
