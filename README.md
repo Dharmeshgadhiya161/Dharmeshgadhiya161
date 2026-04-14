@@ -7,9 +7,9 @@
 
 🚀 **Full Stack Data Science and AI || PYTHON || Machine Learning || Android Development** 
 
-- 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(Power BI | Tableau).
+- 🔭 **I’m currently working** on Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Data Visualization(Power BI | Tableau), LangChain, Retrieval-Augmented Generation (RAG), FAISS, Embeddings, and Generative AI applications.
 - **Deployment/Cloud**:  Flask, Streamlit, Fast APIs, API Integration, and AWS and Google Cloud
-- 🌱 **I’m currently learning** Languages & Tools: TensorFlow, PyTorch, OpenCV, AI/ML Areas: Deep Learning.
+- 🌱 **I’m currently learning** Languages & Tools: TensorFlow, PyTorch, OpenCV, Deep Learning, advanced LLM applications, and RAG pipelines.
 
 📱 **Mobile Development Background**: **(5+ years experience) Kotlin, Java**, Android SDK, Firebase, REST APIs. I'm excited to blend my mobile app development experience with AI/ML skills to build impactful, intelligent applications and solutions.
 
